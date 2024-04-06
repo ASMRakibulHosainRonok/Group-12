@@ -1,0 +1,45 @@
+.navbar-nav {
+    position: absolute;
+    right: 0;
+  }
+  .navbar-brand{
+    font-size: 30px;
+    color:rgb(70, 71, 79);
+    font-weight:bold;
+    font-family: Arial, sans-serif; 
+  }
+  .btn-group {
+    text-align: center;
+    margin-top: 300px;
+  }
+  .btn-group button a {
+    text-decoration: none; /* Remove underline */
+}
+button {
+    background-color: #b9bc77; /* Green color */
+    border: none;
+    color: rgb(234, 223, 223);
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e4e4b9; /* Darker green color on hover */
+}
+
+
+
+
+
+  
+
+  
+
+ 
+  
