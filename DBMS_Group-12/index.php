@@ -37,8 +37,8 @@
 <body>
   <div class="card">
     <h2>Login or Register</h2>
-    <button class="button" onclick="window.location.href='login.html'">Login</button>
-    <button class="button" onclick="window.location.href='register.html'">Register</button>
+    <button class="button" onclick="window.location.href='login.php'">Login</button>
+    <button class="button" onclick="window.location.href='register.php'">Register</button>
   </div>
 </body>
 </html>

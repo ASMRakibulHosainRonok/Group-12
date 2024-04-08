@@ -16,7 +16,7 @@
         </div>
       </nav>
         <div class ="btn-group">
-          <button><a href="F_landSize.html">Land Size</a></button>
+          <button><a href="F_landSize.php">Land Size</a></button>
           <button><a href="">History</a></button>
           <button><a href="">Profit</a></button>
         </div>      

@@ -86,7 +86,7 @@
   <script>
     function register() {
       // Redirect to another page
-      window.location.href = "f_login.html";
+      window.location.href = "f_login.php";
     }
   </script>
   

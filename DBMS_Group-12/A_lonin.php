@@ -68,7 +68,7 @@
       // Perform login actions here
       alert("Login button clicked!");
       // Redirect to another page if needed
-      window.location.href = "loggedin.html";
+      window.location.href = "loggedin.php";
     }
   </script>
 </body>

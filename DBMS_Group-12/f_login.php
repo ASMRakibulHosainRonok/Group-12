@@ -66,7 +66,7 @@
   <script>
     function login() {
       // Redirect to another page if needed
-      window.location.href = "f_homePage.html";
+      window.location.href = "f_homePage.php";
     }
   </script>
 </body>

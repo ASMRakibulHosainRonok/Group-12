@@ -24,7 +24,7 @@
     document.getElementById("options").addEventListener("change", function() {
       var selectedOption = this.value;
       if (selectedOption) {
-        window.location.href = selectedOption + ".html";
+        window.location.href = selectedOption + ".php";
       }
     });
   </script>

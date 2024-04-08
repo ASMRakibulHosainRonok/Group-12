@@ -92,7 +92,7 @@
       // Perform registration actions here
       alert("Registration button clicked!");
       // Redirect to another page if needed
-      window.location.href = "registered.html";
+      window.location.href = "registered.php";
     }
   </script>
 </body>
