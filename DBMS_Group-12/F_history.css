@@ -1,0 +1,53 @@
+.btn-group {
+    text-align: center;
+    margin-top: 300px;
+  }
+  .btn-group button a {
+    text-decoration: none; /* Remove underline */
+}
+button {
+    background-color: #b9bc77; /* Green color */
+    border: none;
+    color: rgb(234, 223, 223);
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #e4e4b9; /* Darker green color on hover */
+}
+
+*{
+  text-decoration: none;
+}
+.navbar{
+  font-family: calibri; 
+  padding-right: 15px;
+  padding-left: 15px;
+  padding: 10px;
+}
+.navdiv{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between;
+}
+.logo a{
+  font-size: 35px; 
+  font-weight: 600; 
+  color: rgb(16, 14, 14);
+}
+li{
+  list-style: none; 
+  display: inline-block;
+}
+li a{
+  color: rgb(5, 5, 5); 
+  font-size: 18px; 
+  font-weight: bold; 
+  margin-right: 150px;
+}

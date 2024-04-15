@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $_SESSION['loggedin'] = true;
 
             // Redirect to admin homepage
-            header("Location: admin_homepage.php");
+            header("Location: admin_home_page.php");
             exit();
         } else {
             // Invalid credentials
@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       // Perform login actions here
       alert("Login button clicked!");
       // Redirect to another page if needed
-      window.location.href = "loggedin.php";
+      window.location.href = "admin_home_page.php";
     }
   </script>
 </body>

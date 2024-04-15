@@ -21,10 +21,8 @@ include 'Connection.php'; // Include the database connection
         </div>
       </nav>
         <div class ="btn-group">
-          <button><a href="F_landSize.php">Land Size</a></button>
-          <button><a href="F_history.php">History</a></button>
-          <button><a href="Profit.php">Profit</a></button>
-          <button><a href="exp_info.php">Feedback from Agricultural Expert</a></button>
-        </div>      
+          <button><a href="all_agri.php">All Agricultural</a></button>
+          <button><a href="all_farmer.php">All Farmer</a></button>
+         </div>      
 </body>
 </html>

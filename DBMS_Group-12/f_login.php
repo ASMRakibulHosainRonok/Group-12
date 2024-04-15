@@ -39,7 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Login - Option 1</title>
+  <title>Login</title>
   <style>
    
     body {
@@ -89,7 +89,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <h2>Login - Farmer </h2>
     <form  method="post">
     <div class="input-group">
-      <label for="fphone_number">Username:</label>
+      <label for="fphone_number">Phone number:</label>
       <input type="text" id="fphone_number" name="fphone_number" required>
     </div>
     <div class="input-group">

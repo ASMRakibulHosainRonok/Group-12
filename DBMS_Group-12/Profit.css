@@ -1,0 +1,75 @@
+nav{
+    background-color: rgb(136, 176, 181);
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+form{
+    margin-top: 30px;
+}
+.bar-chart {
+    margin-top: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 100px;
+    border: 1px solid #ccc;
+    padding: 100px;
+}
+
+.bar {
+    width: 50px;
+    background-color: rgb(12, 9, 9);
+    margin-bottom: 10px;
+}
+
+#bar1 {
+    height: 10pxpx;
+}
+
+#bar2 {
+    height: 20px;
+}
+
+#bar3 {
+    height: 30px;
+}
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-size:30px;
+    
+}
+/* Style for form */
+form {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style for label */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: black;
+  }
+  
+  /* Style for select element */
+  select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  /* Style for option elements */
+  option {
+    font-size: 16px;
+  }
+  
+  /* Style for option hover */
+  option:hover {
+    background-color: #f0f0f0;
+  }
+  
